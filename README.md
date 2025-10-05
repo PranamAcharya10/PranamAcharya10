@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranam P Acharya</h1>
 <h3 align="center">Finding the signal in the noise.</h3>
 
-- 🌱 I’m currently learning **- Advanced machine learning techniques - Real-world data storytelling - New tools and tricks for efficient data analysis**
+- 🌱 I’m currently learning **- Machine learning techniques - Real-world data storytelling - New tools and tricks for efficient data analysis**
 
 - 📫 How to reach me **pranamacharya956@gmail.com**
 
