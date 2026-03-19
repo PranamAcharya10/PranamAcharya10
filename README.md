@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [https://dry-firefly-266.linkyhost.com](https://dry-firefly-266.linkyhost.com)
 
-- ⚡ Fun fact **- 📚 Avid reader—always looking for book recommendations! - ⚽ Football enthusiast and team player - 📷 Passionate about photography and creative video editing**
+- ⚡ Fun fact **- ⚽ Football enthusiast and team player - 📷 Passionate about photography and creative video editing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
