@@ -11,7 +11,7 @@ I'm a student and aspiring data professional with a passion for turning raw data
 - 🌱 Learning **Machine Learning techniques**, real-world data storytelling, and efficient data analysis workflows
 - 🔍 Open to **data analyst / data science roles and internships**
 - 📬 Reach me at **pranamacharya956@gmail.com**
-- 🔗 Know more about me at [dry-firefly-266.linkyhost.com](https://dry-firefly-266.linkyhost.com)
+- 🔗 Know more about me at 
 - ⚡ Football enthusiast · Photography · Creative video editing
 
 <br/>
