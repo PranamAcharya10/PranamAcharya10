@@ -80,7 +80,7 @@ _Tools used: Python, Power BI, Forecasting, Data Visualization_
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   &nbsp;
-  <a href="https://dry-firefly-266.linkyhost.com" target="_blank">
+  <a href="https://pranamacharya10.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=link&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
